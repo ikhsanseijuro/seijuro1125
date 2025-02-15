@@ -24,6 +24,11 @@ html {
     color: white;
     font-size: 30px;
 }
+#biodata {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
 .li-navbar:hover {
     background-color: tomato;
     transition: .1 ease-in-out;
